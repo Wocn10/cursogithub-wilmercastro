@@ -1,5 +1,5 @@
 nuevo
 
-<<<code>>>
+<<<code>>> Otra cosa
 
 nuevo codigo
